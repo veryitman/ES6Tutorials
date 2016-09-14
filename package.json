@@ -1,0 +1,21 @@
+{
+  "name": "es6tutorials",
+  "version": "1.0.0",
+  "description": "Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    ".etc"
+  ],
+  "author": "mark.zhang",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.14.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.14.0"
+  }
+}
