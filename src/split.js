@@ -20,6 +20,7 @@ var mapArray = splitArray.map((word) => {
     console.log("array[" + index + "] = " +word);
     index ++;
 
+    //return word && 'm';
     return word;
 });
 
